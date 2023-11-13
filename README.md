@@ -1,7 +1,7 @@
-# Time Manager
-TimeManager is a React app designed to help users efficiently organize their schedules, appointments, and contacts. This user-friendly application provides a dashboard that offers a quick overview of all appointments and contacts, complete with detailed information such as names, hours, dates, and more. Users can easily add, view, and manage their appointments and contacts to enhance their daily organization.
+# TimyManager
+TimyManager is a React app designed to help users efficiently organize their schedules, appointments, and contacts. This user-friendly application provides a dashboard that offers a quick overview of all appointments and contacts, complete with detailed information such as names, hours, dates, and more. Users can easily add, view, and manage their appointments and contacts to enhance their daily organization.
 
-Website: [Time Manager](https://timemanager.netlify.app/) 
+Website: [TimyManager](https://timymanager.netlify.app/) 
 
 ## Features
 - **Dashboard Overview**: Get a quick snapshot of your upcoming appointments and existing contacts.

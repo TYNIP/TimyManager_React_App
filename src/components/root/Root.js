@@ -10,7 +10,7 @@ function Root() {
     return (
         <>
             <nav>
-                <h1>TimeManager</h1>
+                <h1>TimyManager</h1>
                 <NavLink to={ROUTES.DASHBOARD} >
                 Dashboard
                 </NavLink>
