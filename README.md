@@ -9,7 +9,7 @@ Website: [TimyManager](https://timymanager.netlify.app/)
 - **Contact Management**: Organize your contacts with essential information such as names, phone numbers, and emails.
 - **User-Friendly Interface**: The app is designed for ease of use, ensuring a seamless experience for users.
 
-##Usage
+## Usage
 1) Dashboard:
     - The dashboard provides an at-a-glance view of your upcoming appointments and contacts.
 2) Appointments:
