@@ -1,5 +1,7 @@
 # TimyManager
+
 **CLIENT SIDE ONLY**
+
 TimyManager is a React app designed to help users efficiently organize their schedules, appointments, and contacts. This user-friendly application provides a dashboard that offers a quick overview of all appointments and contacts, complete with detailed information such as names, hours, dates, and more. Users can easily add, view, and manage their appointments and contacts to enhance their daily organization.
 
 Website: [TimyManager](https://timymanager.netlify.app/) 
